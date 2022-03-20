@@ -62,4 +62,4 @@ async def generate(ctx):
                 await ctx.send(file=discord.File('images\\final.png'))
                 print("generated and sent NFT")
 
-bot.run('OTM0Njg0MTc1NDIyODUzMTMw.YezqeQ.CuvRzDoh1fF_AZvNuZzCliatXBs')
+bot.run('no no no little man')
